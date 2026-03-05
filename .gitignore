@@ -57,8 +57,5 @@ crashlytics-build.properties
 ehthumbs.db
 Thumbs.db
 
-# Claude
-CLAUDE.md
-
 # VS config
 .vsconfig
